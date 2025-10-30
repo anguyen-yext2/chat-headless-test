@@ -1,6 +1,6 @@
 {
-  "name": "@yext/chat-headless",
-  "version": "0.12.2",
+  "name": "anguyen-chat-headless-test",
+  "version": "0.1.0",
   "description": "A state manager library powered by Redux for Yext Chat integrations",
   "main": "./dist/commonjs/src/index.js",
   "module": "./dist/esm/src/index.mjs",
@@ -30,13 +30,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yext/chat-headless.git"
+    "url": "https://github.com/anguyen-yext2/chat-headless-test.git"
   },
   "author": "watson@yext.com",
   "bugs": {
-    "url": "https://github.com/yext/chat-headless/issues"
+    "url": "https://github.com/anguyen-yext2/chat-headless-test/issues"
   },
-  "homepage": "https://github.com/yext/chat-headless#readme",
+  "homepage": "https://github.com/anguyen-yext2/chat-headless-test#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@yext/analytics": "^1.0.1",
