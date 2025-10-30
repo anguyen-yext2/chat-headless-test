@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "chat-headless",
+  "name": "anguyen-chat-headless-test",
   "version": "0.1.0",
   "scripts": {
     "build": "turbo run build --filter='./packages/*'",

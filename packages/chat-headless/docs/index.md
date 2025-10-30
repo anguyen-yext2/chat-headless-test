@@ -6,7 +6,25 @@
 
 ## Packages
 
-|  Package | Description |
-|  --- | --- |
-|  [@yext/chat-headless](./chat-headless.md) |  |
+<table><thead><tr><th>
+
+Package
+
+
+</th><th>
+
+Description
+
+
+</th></tr></thead>
+<tbody><tr><td>
+
+[anguyen-chat-headless-test](./anguyen-chat-headless-test.md)
+
+
+</td><td>
+
+
+</td></tr>
+</tbody></table>
 

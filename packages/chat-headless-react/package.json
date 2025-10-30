@@ -1,5 +1,5 @@
 {
-  "name": "@yext/chat-headless-react",
+  "name": "anguyen-chat-headless-react-test",
   "version": "0.9.5",
   "description": "the official React UI Bindings layer for Chat Headless",
   "main": "./dist/commonjs/src/index.js",
@@ -30,13 +30,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yext/chat-headless.git"
+    "url": "https://github.com/anguyen-yext2/chat-headless-test.git"
   },
   "author": "watson@yext.com",
   "bugs": {
-    "url": "https://github.com/yext/chat-headless/issues"
+    "url": "https://github.com/anguyen-yext2/chat-headless-test/issues"
   },
-  "homepage": "https://github.com/yext/chat-headless#readme",
+  "homepage": "https://github.com/anguyen-yext2/chat-headless-test#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@yext/chat-headless": "^0.12.2",
