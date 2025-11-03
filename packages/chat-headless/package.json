@@ -1,6 +1,6 @@
 {
   "name": "anguyen-chat-headless-test",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "A state manager library powered by Redux for Yext Chat integrations",
   "main": "./dist/commonjs/src/index.js",
   "module": "./dist/esm/src/index.mjs",
