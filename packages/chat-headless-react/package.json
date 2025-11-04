@@ -1,6 +1,6 @@
 {
   "name": "anguyen-chat-headless-react-test",
-  "version": "0.9.6",
+  "version": "0.10.0-beta.0",
   "description": "the official React UI Bindings layer for Chat Headless",
   "main": "./dist/commonjs/src/index.js",
   "module": "./dist/esm/src/index.mjs",
